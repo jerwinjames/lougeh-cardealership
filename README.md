@@ -1,4 +1,4 @@
-﻿# lougeh-supermarket
+﻿# lougeh-cardealership
 
 Lou Geh Car Dealership - Assessment
 
